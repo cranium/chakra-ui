@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.7.2
+
+### Patch Changes
+
+- Updated dependencies
+  [[`00a06704e`](https://github.com/chakra-ui/chakra-ui/commit/00a06704e5ba609f5b8f4787873dd7c72d56636e)]:
+  - @chakra-ui/tooltip@2.2.10
+
 ## 2.7.1
 
 ### Patch Changes

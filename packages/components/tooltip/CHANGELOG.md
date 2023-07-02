@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.2.10
+
+### Patch Changes
+
+- [#7792](https://github.com/chakra-ui/chakra-ui/pull/7792)
+  [`00a06704e`](https://github.com/chakra-ui/chakra-ui/commit/00a06704e5ba609f5b8f4787873dd7c72d56636e)
+  Thanks [@jeferson-sb](https://github.com/jeferson-sb)! - Fix tooltip prevent
+  onClose to get fired on tooltip opened
+
 ## 2.2.9
 
 ### Patch Changes
